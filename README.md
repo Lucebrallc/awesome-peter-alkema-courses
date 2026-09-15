@@ -7,6 +7,8 @@
 [![Course Count](https://img.shields.io/badge/Catalog-97%2B%20Courses-10b981.svg)](https://www.lucebra.com/instructor/peteralkema)
 [![Digital Certificates](https://img.shields.io/badge/Certificates-Verifiable%20Digital-orange.svg)](https://www.lucebra.com/instructor/peteralkema)
 [![33 Locales](https://img.shields.io/badge/Languages-33%20Locales-blue.svg)](https://www.lucebra.com)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-34a853.svg?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lucebra.app)
+[![App Store](https://img.shields.io/badge/App_Store-iOS-000000.svg?logo=apple&logoColor=white)](https://apps.apple.com/us/app/lucebra/id6754839631)
 
 ---
 
@@ -136,6 +138,20 @@ Upskill your team or organization with unlimited access to all courses, hands-on
 | **Master Note-Free Speaking: Engage & Captivate Audiences** | Business • Presentation Skills | 5 hrs | 97 | ⭐ 5 | [Start Course on Lucebra →](https://www.lucebra.com/courses/master-notefree-speaking-engage-captivate-audiences) |
 | **Master Workplace Wellness: Resilience, Boundaries & Burnout** | Personal Development • Workplace Wellness & Self-Care | 5 hrs | 100 | ⭐ 5 | [Start Course on Lucebra →](https://www.lucebra.com/courses/master-workplace-wellness-resilience-boundaries-burnout) |
 
+
+---
+
+
+---
+
+## 📱 Learn on the Go — Official Lucebra Mobile Apps
+
+Study anytime, anywhere with offline video streaming, audio mode, quiz practice, and instant verifiable certificates on iOS and Android:
+
+| Platform | Direct Store Link | Availability |
+| :--- | :--- | :---: |
+| 🍏 **Apple App Store (iOS & iPadOS)** | [👉 **Download on the App Store**](https://apps.apple.com/us/app/lucebra/id6754839631) | Free Download |
+| 🤖 **Google Play Store (Android)** | [👉 **Get it on Google Play**](https://play.google.com/store/apps/details?id=com.lucebra.app) | Free Download |
 
 ---
 
